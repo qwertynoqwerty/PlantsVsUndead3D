@@ -56,7 +56,7 @@
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/destrosez/PlantsVsUndead.git
+git clone https://github.com/qwertynoqwerty/PlantsVsUndead3D.git
 ```
 
 2. Откройте проект в **Unity 6.0+**.
